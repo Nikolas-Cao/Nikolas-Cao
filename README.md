@@ -17,7 +17,7 @@
 ## ❤️ Habbit
 #### 📖 Reading : 
 > 2025Y : 31 Books ; 2024Y : 36 Books  
-> If you have ever read the same book with me , glad to discuss ~
+> If you have ever read the same book with me , glad to discuss ~  
 > <img src="./images/reading_record_2025.jpg" alt="2025 record" height=250 /> <img src="./images/reading_record_2024.jpg" alt="2024 record" height=250 /> 
 
 #### 🚴 Cycling : 
