@@ -21,7 +21,7 @@
 > <img src="./images/reading_record_2025.jpg" alt="2025 record" height=250 /> <img src="./images/reading_record_2024.jpg" alt="2024 record" height=250 /> 
 
 #### 🚴 Cycling : 
-> My proudest record is cycling continuously for a week, covering a total distance of approximately 1000 kilometers.  
+> My proudest record is cycling continuously for a week, covering a total distance of approximately 1000 kilometers (73h-29min-25s in total).  
 > <img align="center" src="./images/my_bike.jpg" alt="2025 record" height=250 /> <img align="center" src="./images/longest_record.jpg" alt="2024 record" height=250 /> </details>
 
 
