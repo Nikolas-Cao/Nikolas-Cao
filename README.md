@@ -16,12 +16,12 @@
 ---
 ## ❤️ Habbit
 #### 📖 Reading : 
-> 2025Y : 31 Books ; 2024Y : 36 Books
+> 2025Y : 31 Books ; 2024Y : 36 Books  
 > If you have ever read the same book with me , glad to discuss ~
 > <img src="./images/reading_record_2025.jpg" alt="2025 record" height=250 /> <img src="./images/reading_record_2024.jpg" alt="2024 record" height=250 /> 
 
 #### 🚴 Cycling : 
-> My proudest record is cycling continuously for a week, covering a total distance of approximately 1000 kilometers. 
+> My proudest record is cycling continuously for a week, covering a total distance of approximately 1000 kilometers.  
 > <img align="center" src="./images/my_bike.jpg" alt="2025 record" height=250 /> <img align="center" src="./images/longest_record.jpg" alt="2024 record" height=250 /> </details>
 
 
@@ -54,4 +54,4 @@
 
 
 ## Github Stats
-![GitHub Stats](![GitHub Stats](https://github-readme-stats-caohao.vercel.app/api?username=Nikolas-Cao&show_icons=true&theme=radical&count_private=true&include_all_commits=true))
+![GitHub Stats](https://github-readme-stats-caohao.vercel.app/api?username=Nikolas-Cao&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
